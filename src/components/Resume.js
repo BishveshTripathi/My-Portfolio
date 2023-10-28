@@ -5,9 +5,9 @@ const Resume = () => {
     <div className=" w-full bg-slate-100">
       <div className="flex gap-2">
         <h1 className="text-4xl font-bold pt-10 pl-20 pb-10">Resume</h1>
-        <button className="pt-4">
+        <a className="pt-[53px]" href="/BishveshTripathi@2000.pdf">
           <span class="material-symbols-outlined">download</span>
-        </button>
+        </a>
       </div>
       <hr />
       {/* ---------------------------Education----------------------------- */}
