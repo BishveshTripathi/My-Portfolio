@@ -1,0 +1,63 @@
+{
+    "reactprojects": [
+      {
+        "name": "E-Commerce",
+        "image": "/images/ecommerce.png",
+        "description": "E-commerce plateform",
+        "link": "https://project1.com",
+        "source":"https://github.com/BishveshTripathi/e-commerce"
+      },
+      {
+        "name": "Netflix Clone",
+        "image":"/images/netflix.png",
+        "description": "A netflix clone",
+        "link": "https://project2.com",
+        "source":"https://project1.com"
+      },
+      {
+        "name": "Car Rental App",
+        "image":"/images/carrental.png",
+        "description": "Car Renting application",
+        "link": "https://project2.com",
+        "source":"https://project1.com"
+      },
+      {
+        "name": "CRUD App",
+        "image":"/images/crud.png",
+        "description": "CRUD Application",
+        "link": "https://project2.com",
+        "source":"https://project1.com"
+      }
+    ],
+    "jsprojects": [
+      {
+        "name": "TO-DO App",
+        "image":"ecommerce.png",
+        "description": "To-Do App in Javascript",
+        "link": "https://project1.com",
+        "source":"https://project1.com"
+      },
+      {
+        "name": "Movie Review",
+        "image":"netflix.png",
+        "description": "Movie Review App",
+        "link": "https://project2.com",
+        "source":"https://project1.com"
+      },
+      {
+        "name": "Weather App",
+        "image":"carrental.png",
+        "description": "Know weather anywhere",
+        "link": "https://project2.com",
+        "source":"https://project1.com"
+      },
+      {
+        "name": "Recipe Search",
+        "image":"crud.png",
+        "description": "Search Recipe of any movie",
+        "link": "https://project2.com",
+        "source":"https://project1.com"
+      }
+    ]
+  }
+  

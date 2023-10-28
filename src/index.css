@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200&family=Open+Sans:wght@300&family=Poppins:wght@200&family=Sedgwick+Ave+Display&family=Ubuntu:wght@300;400&display=swap");
+
+body {
+  /* font-family: "Montserrat", sans-serif; */
+  font-family: "Open Sans", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  /* font-family: "Sedgwick Ave Display", cursive; */
+  /* font-family: "Ubuntu", sans-serif; */
+}
+
+.dark-mode {
+  color: whitesmoke;
+}
+.dark-mode div {
+  background-color: rgb(11, 8, 15);
+}
