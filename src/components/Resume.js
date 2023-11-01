@@ -60,6 +60,7 @@ const Resume = () => {
             <li>Javascript</li>
             <li>React JS</li>
             <li>TailWind CSS</li>
+            <li>My SQL</li>
             <li>Git & Github</li>
           </ul>
         </div>
@@ -73,6 +74,7 @@ const Resume = () => {
             <li>Web Development</li>
             <li>Social Interaction</li>
             <li>Music</li>
+            <li>Reading</li>
             <li>Travelling</li>
           </ul>
         </div>

@@ -3,60 +3,67 @@
       {
         "name": "E-Commerce",
         "image": "/images/ecommerce.png",
-        "description": "E-commerce plateform",
-        "link": "https://project1.com",
+        "description": "Shop effortlessly with our feature-rich ecommerce app, offering a vast selection of products, secure payment options, and a seamless shopping experience.",
+        "link": "https://dainty-sunflower-4bf017.netlify.app/",
         "source":"https://github.com/BishveshTripathi/e-commerce"
       },
       {
         "name": "Netflix Clone",
-        "image":"/images/netflix.png",
-        "description": "A netflix clone",
-        "link": "https://project2.com",
-        "source":"https://project1.com"
+        "image":"../images/netflix.png",
+        "description": " Dive into the world of entertainment with our Netflix clone, providing a library of movies, TV series, and exclusive content for endless streaming pleasure.",
+        "link": "https://joyful-piroshki-a3b3a5.netlify.app/",
+        "source":"https://github.com/BishveshTripathi/NetflixGPT"
       },
       {
-        "name": "Car Rental App",
+        "name": "Car Rental",
         "image":"/images/carrental.png",
-        "description": "Car Renting application",
-        "link": "https://project2.com",
-        "source":"https://project1.com"
+        "description": "Unlock the freedom of mobility with our car renting app, featuring a wide range of vehicles, flexible rental options, and easy booking for your travel needs.",
+        "link": "https://tubular-marigold-5533b5.netlify.app/",
+        "source":"https://github.com/BishveshTripathi/react-app"
       },
       {
-        "name": "CRUD App",
+        "name": "CRUD",
         "image":"/images/crud.png",
-        "description": "CRUD Application",
-        "link": "https://project2.com",
-        "source":"https://project1.com"
+        "description": "Optimize your business with our customizable CRUD daily run rate calculator, enabling you to efficiently track, manage, and analyze your company's performance metrics.",
+        "link": "https://flourishing-capybara-262c36.netlify.app/",
+        "source":"https://github.com/BishveshTripathi/CRUD-app"
       }
     ],
     "jsprojects": [
       {
         "name": "TO-DO App",
-        "image":"ecommerce.png",
-        "description": "To-Do App in Javascript",
-        "link": "https://project1.com",
-        "source":"https://project1.com"
+        "image":"/images/todo.png",
+        "description": "Streamline your daily tasks with our intuitive to-do app, complete with reminders and priority settings for enhanced productivity.",
+        "link": "https://jocular-kulfi-da7934.netlify.app/",
+        "source":"https://github.com/BishveshTripathi/JS_ToDoList"
       },
       {
         "name": "Movie Review",
-        "image":"netflix.png",
-        "description": "Movie Review App",
-        "link": "https://project2.com",
-        "source":"https://project1.com"
+        "image":"/images/moviereview.png",
+        "description": " Dive into the world of cinema with our movie review app, where you can read, write, and share insightful reviews on your favorite films.",
+        "link": "https://exquisite-pixie-14436e.netlify.app/",
+        "source":"https://github.com/BishveshTripathi/Movie_review_app"
       },
       {
         "name": "Weather App",
-        "image":"carrental.png",
-        "description": "Know weather anywhere",
-        "link": "https://project2.com",
-        "source":"https://project1.com"
+        "image":"/images/weather.png",
+        "description": "Stay informed with up-to-the-minute weather forecasts, interactive maps, and localized conditions to plan your day effectively.",
+        "link": "https://snazzy-piroshki-64c342.netlify.app/",
+        "source":"https://github.com/BishveshTripathi/WeatherAppAPI"
       },
       {
         "name": "Recipe Search",
-        "image":"crud.png",
-        "description": "Search Recipe of any movie",
-        "link": "https://project2.com",
-        "source":"https://project1.com"
+        "image":"/images/recipe.png",
+        "description": "Embark on a culinary adventure with our recipe search app, offering a vast collection of recipes to suit your tastes and dietary preferences.",
+        "link": "https://subtle-paprenjak-1e31df.netlify.app/",
+        "source":"https://snazzy-piroshki-64c342.netlify.app/"
+      },
+      {
+        "name": "Random Password",
+        "image":"/images/randompass.png",
+        "description": "Fortify your online security with our password generator, creating complex, unique passwords for every account and safeguarding your digital identity.",
+        "link": "https://zippy-churros-32329f.netlify.app/",
+        "source":"https://github.com/BishveshTripathi/randomPassword"
       }
     ]
   }
