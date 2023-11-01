@@ -27,6 +27,13 @@
         "description": "Optimize your business with our customizable CRUD daily run rate calculator, enabling you to efficiently track, manage, and analyze your company's performance metrics.",
         "link": "https://flourishing-capybara-262c36.netlify.app/",
         "source":"https://github.com/BishveshTripathi/CRUD-app"
+      },
+      {
+        "name": "My Portfolio",
+        "image":"/images/portfoliopic.png",
+        "description": "I crafted an eye-catching React-based portfolio, enriched with numerous features, showcasing my skills and creations in web development. It's a visually appealing testament to my abilities.",
+        "link": "https://bishveshtripathiportfolio.netlify.app/",
+        "source":"https://github.com/BishveshTripathi/My-Portfolio"
       }
     ],
     "jsprojects": [
